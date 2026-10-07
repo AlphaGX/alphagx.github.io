@@ -1,0 +1,16 @@
+{
+  "name": "Super Smash Bros Ultimate Bingo",
+  "short_name": "SSBU Bingo",
+  "description": "Multiplayer Super Smash Bros Ultimate Bingo game",
+  "start_url": "/SSBU-Bingo",
+  "display": "standalone",
+  "background_color": "#020617",
+  "theme_color": "#e11d48",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><circle cx='50' cy='50' r='48' fill='%23e11d48'/><circle cx='50' cy='50' r='42' fill='%230f172a'/><path d='M10 50 H90 M40 10 V90' stroke='%23f43f5e' stroke-width='10'/><circle cx='50' cy='50' r='14' fill='%23ffffff'/></svg>",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml"
+    }
+  ]
+}
