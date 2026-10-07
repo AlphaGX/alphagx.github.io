@@ -1,2 +1,2 @@
 # [Alpha/]
-[SSBU Bingo](SSBU-Bingo)
+[SSBU Bingo](SSBU-Bingo/)
