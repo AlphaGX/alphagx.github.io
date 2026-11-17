@@ -1,6 +1,7 @@
 # [Alpha/]
 [SSBU Bingo](SSBU-Bingo/)
-[BombBusters rules cards](bomb-busters/)
+
+[Bomb Busters rules cards](bomb-busters/)
 
 
 
